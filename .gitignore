@@ -1,0 +1,7 @@
+node_modules
+
+# LWR Cache Folder
+__lwr_cache__
+
+# LWC Garden Cache Folder
+.garden
